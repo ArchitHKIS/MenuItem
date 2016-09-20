@@ -4,5 +4,6 @@ public interface MenuItem {
 String getName();
 // @return the price of the menu item
 double getPrice();
+Trio trio = new Trio();
 
 }
