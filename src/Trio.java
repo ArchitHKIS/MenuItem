@@ -21,7 +21,7 @@ public Trio(Sandwich aSandwich, Salad aSalad, Drink aDrink){
     }
 }
 
-//method
+//method	
 	public String getName() {
 		// TODO Auto-generated method stub
 		return name;
